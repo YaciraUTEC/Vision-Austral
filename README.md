@@ -13,3 +13,4 @@
 | | 3.3 | Cálculo de Longitud (Píxeles) | Calcular longitud en píxeles desde la caja. | Script Python | `Largo_Pixeles = max((x_max - x_min), (y_max - y_min))` |
 | | 3.4 | Cálculo de Longitud Real | Convertir la longitud en píxeles a mm. | Script Python | Longitud real = `Largo_Pixeles * Factor_de_Calibración`. |
 
+Hasta el momento tengo el modelo `Fine Tuning básico`. Según el paper se debe añadir el parámetro `Freeze` para que sea el entrenamiento más profundo
